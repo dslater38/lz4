@@ -18,6 +18,8 @@
 *.out
 *.app
 lz4
+**x64/
+**Win32/
 
 # IDE / editors files
 .clang_complete
